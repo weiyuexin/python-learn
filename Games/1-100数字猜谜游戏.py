@@ -10,7 +10,7 @@ while guess != num:
     if guess == num:
         print("恭喜，你猜对了！")
     elif guess > num:
-        print("你猜的数大了�?")
+        print("你猜的数大了")
     else:
-        print("你猜的数小了�?")
-print("你一共猜�?%d" % i + "次，快和你的朋友比试一下吧！！�?")
+        print("你猜的数小了")
+print("你一共猜了%d" % i + "次，快和你的朋友比试一下吧！！")
